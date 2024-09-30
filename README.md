@@ -1,5 +1,5 @@
 # Music_Store_Analysis_with_SQL
-Tools : Postgre SQL, PgAdmin4
+Tools : PostgreSQL, PgAdmin4
 
 **The three uploaded SQL files contain a series of queries that address different levels of business questions based on the complexity:**
 
